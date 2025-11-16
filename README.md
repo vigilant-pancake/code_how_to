@@ -1,2 +1,2 @@
-# how_to_computer
-Examples and content from the how to computer youtube channel
+# Code How To
+Examples and content from the Code How To youtube channel
